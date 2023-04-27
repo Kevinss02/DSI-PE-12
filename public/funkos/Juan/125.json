@@ -1,0 +1,12 @@
+{
+  "id": "125",
+  "name": "Bat",
+  "desc": "Batman funko pop",
+  "type": "POP",
+  "genre": "Superhero",
+  "franchise": "DC",
+  "franchiseNumber": 1,
+  "isExclusive": true,
+  "specialFeatures": "Glow-in-the-dark",
+  "marketValue": 25
+}
